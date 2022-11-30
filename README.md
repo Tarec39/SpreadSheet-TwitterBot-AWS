@@ -1,4 +1,7 @@
-# Twitter-Bot-for-AWS
+# Twitter-Bot-for-AWS 絶賛稼働中！
+### こんな感じで動く
+![demo](https://user-images.githubusercontent.com/46292023/203885770-c91cfa35-c97f-4663-88f4-2015e90f9d0b.gif)
+![image](https://user-images.githubusercontent.com/46292023/203885900-808eea61-e0e1-4d89-93c2-0a701ee2d826.png)
 ---
 ### 何ができる？
   スプレッドシートにあるテキストを上から順にツイートすることができる。
@@ -19,6 +22,4 @@
 ### 望ましい用途
   コードをコピペして使って欲しい
 ---
-### こんな感じで動く
-![demo](https://user-images.githubusercontent.com/46292023/203885770-c91cfa35-c97f-4663-88f4-2015e90f9d0b.gif)
-![image](https://user-images.githubusercontent.com/46292023/203885900-808eea61-e0e1-4d89-93c2-0a701ee2d826.png)
+
